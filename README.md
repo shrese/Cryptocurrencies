@@ -18,7 +18,7 @@ For the challenge we were required to do the following:
 After completing deliverable one and two, we were able to cluster the data using the K-means method. We were able to find the best value for K using the elbow curve. The results were that four should be used for the clusters.
 
 
-![](Resources/elbow_curve.png)
+![](Resources/elbow_curve.PNG)
 
 We then initialized the K-means model to produce our predictions and clusters.  Finally, in deliverable four the following were produced from the clusters:
 
